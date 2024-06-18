@@ -1,16 +1,16 @@
-## Hi there 👋
+## boas vindas ao meu perfil 👋
 
-<!--
-**joyce557/joyce557** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é joyce guerreiro
 
-Here are some ideas to get you started:
+estou estudando no [alura](https://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+estou me desenvolvendo na linguagem JavaScript
+
+utilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos desenvolvidos 
+
+### voce pode entrar em contato comigo 📫
+
+joyceguerreiro124@gmail.com
+
+![](https://tenor.com/bLS7R.gif)
+
