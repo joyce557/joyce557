@@ -12,5 +12,6 @@ utilizo esse espaço para minha organizaçao e compartilhamento dos meus projeto
 
 joyceguerreiro124@gmail.com
 
-![](https://tenor.com/bLS7R.gif)
+![](https://github.com/joyce557/joyce557/assets/173101193/a7737d29-55b7-4a51-b383-9ecf5448df1a)
+
 
